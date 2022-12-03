@@ -1,0 +1,19 @@
+{
+  "name": "async-jet",
+  "version": "1.0.0",
+  "description": "My page with the new knowledge of async coures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santymrk2/async-jet.git"
+  },
+  "author": "santiago mercado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santymrk2/async-jet/issues"
+  },
+  "homepage": "https://github.com/santymrk2/async-jet#readme"
+}
